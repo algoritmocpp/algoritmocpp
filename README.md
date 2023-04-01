@@ -4,13 +4,13 @@ Sou um desenvolvedor curioso, atualmente cursando desenvolvimento Web na [Trybe]
 
 [![Linkedin Badge](https://img.shields.io/badge/-algoritmocpp-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/algoritmocpp/)](https://www.linkedin.com/in/algoritmocpp/)[![Instagram Badge](https://img.shields.io/badge/-algoritmocpp-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/algoritmocpp/)](https://instagram.com/algoritmocpp)[![Youtube Badge](https://img.shields.io/badge/-algoritmocpp-darkred?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@algoritmocpp)](https://www.youtube.com/@algoritmocpp)
 
-### ♾️Codewars ♾️
+## ♾️Codewars ♾️
 
 Estou voltando para o Codewars, que é uma comunidade educacional para programação de computadores. Na plataforma, os desenvolvedores de software treinam em desafios de programação conhecidos como Kata. E agora o objetivo é subir meu nível o quanto eu conseguir realizando quantos desafios puder. [Meu repo codewars](https://github.com/algoritmocpp/codewars)
 
 ![CodeWars](https://www.codewars.com/users/algoritmocpp/badges/large)
 
-### ⚡ Tecnologias ⚡
+## ⚡ Tecnologias ⚡
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)![Bash](https://img.shields.io/badge/-$___Bash-181717?style=for-the-badge)![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=archlinux)
 
@@ -22,7 +22,7 @@ Estou voltando para o Codewars, que é uma comunidade educacional para programa�
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmocpp&theme=dracula)
 
-### 😺Meu Github😺
+## 😺Meu Github😺
 
 ![Trofeus](https://github-profile-trophy.vercel.app/?username=algoritmocpp&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=false)
 
