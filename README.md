@@ -18,7 +18,7 @@ Estou voltando para o Codewars, que é uma comunidade educacional para programa�
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-![C++](https://img.shields.io/badge/-C++-55599C?style=flat-square&logo=cplusplus)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat-square&logo=postgresql)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![C++](https://img.shields.io/badge/-C++-55599C?style=flat-square&logo=cplusplus)![Rust](https://img.shields.io/badge/-Rust-55599C?style=flat-square&logo=rust)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat-square&logo=postgresql)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ### 😺Meu Github😺
 ![Trofeus](https://github-profile-trophy.vercel.app/?username=algoritmocpp&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=true)
