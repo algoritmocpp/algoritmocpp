@@ -18,7 +18,7 @@ Estou voltando para o Codewars, que √© uma comunidade educacional para programa√
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat-square&logo=postgresql)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmocpp&theme=dracula)
 
