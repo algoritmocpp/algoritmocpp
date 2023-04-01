@@ -16,7 +16,7 @@ Estou voltando para o Codewars, que √© uma comunidade educacional para programa√
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)![C++](https://img.shields.io/badge/-C++-55599C?style=for-the-badge&logo=cplusplus)![Rust](https://img.shields.io/badge/-Rust-964b00?style=for-the-badge&logo=rust)
 
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-1572B6?style=for-the-badge&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 
