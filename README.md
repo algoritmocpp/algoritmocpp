@@ -12,7 +12,7 @@ Estou voltando para o Codewars, que é uma comunidade educacional para programa�
 
 ### ⚡ Tecnologias ⚡
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)![Bash](https://img.shields.io/badge/-$___Bash-181717?style=flat-square)![Linux](https://img.shields.io/badge/-Linux-222222?style=flat-square&logo=archlinux)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)![Bash](https://img.shields.io/badge/-$___Bash-181717?style=flat-square)![Linux](https://img.shields.io/badge/-Linux-222222?style=flat-square&logo=archlinux)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)![C++](https://img.shields.io/badge/-C++-55599C?style=flat-square&logo=cplusplus)![Rust](https://img.shields.io/badge/-Rust-964b00?style=flat-square&logo=rust)
 
