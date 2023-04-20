@@ -6,7 +6,7 @@ Sou um desenvolvedor curioso, atualmente cursando desenvolvimento Web na [Trybe]
 
 ### 🛠️ Ferramentas 🛠️
 
-![VsCode](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=visual-studio-code&logoColor=white)![VisualStudio](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=archlinux)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![VsCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)![VisualStudio](https://img.shields.io/badge/Visual_Studio-68217A?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=archlinux)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
 ### ⚡ Linguagens ⚡
 
