@@ -16,7 +16,7 @@ Sou um desenvolvedor curioso, atualmente cursando desenvolvimento Web na [Trybe]
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Bash](https://img.shields.io/badge/-$___Bash-181717?style=for-the-badge)
 
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Rust](https://img.shields.io/badge/-Rust-964b00?style=for-the-badge&logo=rust)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Rust](https://img.shields.io/badge/-Rust-964b00?style=for-the-badge&logo=rust)![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🌃 Front-end 🌃
 
