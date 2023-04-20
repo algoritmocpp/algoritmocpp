@@ -12,7 +12,9 @@ Sou um desenvolvedor curioso, atualmente cursando desenvolvimento Web na [Trybe]
 
 ### ⚡ Linguagens ⚡
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Rust](https://img.shields.io/badge/-Rust-964b00?style=for-the-badge&logo=rust)![Bash](https://img.shields.io/badge/-$___Bash-181717?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Bash](https://img.shields.io/badge/-$___Bash-181717?style=for-the-badge)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Rust](https://img.shields.io/badge/-Rust-964b00?style=for-the-badge&logo=rust)
 
 ### 🌃 Front-end 🌃
 
