@@ -4,12 +4,6 @@ Sou um desenvolvedor curioso, atualmente cursando desenvolvimento Web na [Trybe]
 
 [![Linkedin Badge](https://img.shields.io/badge/-algoritmocpp-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/algoritmocpp/)](https://www.linkedin.com/in/algoritmocpp/)[![Instagram Badge](https://img.shields.io/badge/-algoritmocpp-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/algoritmocpp/)](https://instagram.com/algoritmocpp)[![Youtube Badge](https://img.shields.io/badge/-algoritmocpp-darkred?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@algoritmocpp)](https://www.youtube.com/@algoritmocpp)
 
-### ♾️Codewars ♾️
-
-Estou voltando para o Codewars, que é uma comunidade educacional para programação de computadores. Na plataforma, os desenvolvedores de software treinam em desafios de programação conhecidos como Kata. E agora o objetivo é subir meu nível o quanto eu conseguir realizando quantos desafios puder. [Meu repo codewars](https://github.com/algoritmocpp/codewars)
-
-![CodeWars](https://www.codewars.com/users/algoritmocpp/badges/large)
-
 ### 🛠️ Ferramentas 🛠️
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=archlinux)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -25,6 +19,12 @@ Estou voltando para o Codewars, que é uma comunidade educacional para programa�
 ### ⚙️ Back-end ⚙️
 
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+
+## ♾️Codewars ♾️
+
+Estou voltando para o Codewars, que é uma comunidade educacional para programação de computadores. Na plataforma, os desenvolvedores de software treinam em desafios de programação conhecidos como Kata. E agora o objetivo é subir meu nível o quanto eu conseguir realizando quantos desafios puder. [Meu repo codewars](https://github.com/algoritmocpp/codewars)
+
+![CodeWars](https://www.codewars.com/users/algoritmocpp/badges/large)
 
 ## 😺Meu Github😺
 
