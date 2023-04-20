@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor curioso, atualmente cursando desenvolvimento Web na [Trybe](https://www.betrybe.com/), gosto de testar coisas novas e resolver bugs enquanto estou programando, o que acaba sendo um exercício de lógica muito bom, entender algo que já foi criado, sou bem flexível quanto ao modo de trabalhar e escrever código, posso me adaptar de forma fácil aos diferentes ambientes.
 
-## 🔗 Me encontre em... 🔗
+### 🔗 Me encontre em... 🔗
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/algoritmocpp/)](https://www.linkedin.com/in/algoritmocpp/)[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/algoritmocpp)[![Hackerrank](https://img.shields.io/badge/Hackerrank-white?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/algoritmocpp)[![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/algoritmocpp/)](https://instagram.com/algoritmocpp)[![Youtube Badge](https://img.shields.io/badge/-youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@algoritmocpp)](https://www.youtube.com/@algoritmocpp)
 
@@ -22,11 +22,15 @@ Sou um desenvolvedor curioso, atualmente cursando desenvolvimento Web na [Trybe]
 
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![Express](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
-## ♾️Codewars ♾️
+### ♾️Codewars ♾️
 
 Estou voltando para o Codewars, que é uma comunidade educacional para programação de computadores. Na plataforma, os desenvolvedores de software treinam em desafios de programação conhecidos como Kata. E agora o objetivo é subir meu nível o quanto eu conseguir realizando quantos desafios puder. [Meu repo codewars](https://github.com/algoritmocpp/codewars)
 
 ![CodeWars](https://www.codewars.com/users/algoritmocpp/badges/large)
+
+### ❇️ HackerRank ❇️
+
+Em construção...
 
 ## 😺Meu Github😺
 
