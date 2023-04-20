@@ -22,7 +22,7 @@ Sou um desenvolvedor curioso, atualmente cursando desenvolvimento Web na [Trybe]
 
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![Express](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
-### ♾️Codewars ♾️
+### 💢 Codewars 💢
 
 Estou voltando para o Codewars, que é uma comunidade educacional para programação de computadores. Na plataforma, os desenvolvedores de software treinam em desafios de programação conhecidos como Kata. E agora o objetivo é subir meu nível o quanto eu conseguir realizando quantos desafios puder. [Meu repo codewars](https://github.com/algoritmocpp/codewars)
 
@@ -30,7 +30,9 @@ Estou voltando para o Codewars, que é uma comunidade educacional para programa�
 
 ### ❇️ HackerRank ❇️
 
-Em construção...
+HackerRank é uma empresa de tecnologia que se concentra em desafios competitivos de programação para consumidores e empresas. Os desenvolvedores competem escrevendo programas de acordo com as especificações fornecidas.
+
+Working for badges...
 
 ## 😺Meu Github😺
 
