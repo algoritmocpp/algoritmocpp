@@ -36,8 +36,8 @@ Working for badges...
 
 ## 😺Meu Github😺
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmocpp&theme=dracula)
-
 ![Trofeus](https://github-profile-trophy.vercel.app/?username=algoritmocpp&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=false)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=algoritmocpp&count_private=true&show_icons=true&include_all_commits&theme=dracula&custom_title=Status%20de%20colaboração%20no%20GitHub)
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmocpp&theme=dracula)
