@@ -24,7 +24,7 @@ Sou um desenvolvedor curioso, atualmente cursando desenvolvimento Web na [Trybe]
 
 ### ⭐ Hobbies e Interesses ⭐
 
-![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)![CSharp](https://img.shields.io/badge/C%23_8~11-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![DotNET](https://img.shields.io/badge/.NET_7-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)![CSharp](https://img.shields.io/badge/C%23_8~11-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![DotNET](https://img.shields.io/badge/.NET_7-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 💢 Codewars 💢
 
